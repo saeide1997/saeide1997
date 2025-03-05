@@ -15,6 +15,8 @@ Interested in using the best practises in programming
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="80px" height="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="80px" height="50px" />
   <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/mongodb/mongodb-original.svg" width="80px" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/next/next-original.svg" width="80px" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/nextjs/nextjs-original.svg" width="80px" height="50px" />
 </div>
 
   ![](https://komarev.com/ghpvc/?username=mrahmadi-dev)
