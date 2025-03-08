@@ -1,37 +1,40 @@
-## About me
-I'm a motivated web developer with 3 years of experince in designing and developing web applications.Expertise in Php,JavaScript,Html and CSS.
-I'm capable of writing clean codes and learning new programming languages ​​and frameworks.
-Interested in using the best practises in programming
-## Stacks
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80px" height="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="80px" height="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" width="80px" height="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"  width="80px" height="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"  width="80px" height="50px" />
-</div>
-<div>
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="80px" height="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="80px" height="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="80px" height="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/mongodb/mongodb-original.svg" width="80px" height="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/nextjs/nextjs-original.svg" width="80px" height="50px" />
-</div>
+### 👋 Hi, I'm Saeideh Tajmehr! 
 
-  ![](https://komarev.com/ghpvc/?username=mrahmadi-dev)
+🚀 **Frontend Developer | JavaScript & Next.js | Machine Learning Enthusiast**  
 
-<!--
-**mrahmadi-dev/mrahmadi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate frontend developer with experience in **JavaScript, React, Next.js, and Tailwind CSS**. I love building interactive UIs and experimenting with **Machine Learning in JavaScript**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 **What I Do**  
+- ⚡ Building modern and scalable web applications with **Next.js & React**  
+- 📊 Developing **dashboard & analytics systems** with data visualization  
+- 🤖 Exploring **Machine Learning in JavaScript** for user behavior analysis  
+- 🌍 Looking for **remote frontend development opportunities**  
+
+---
+
+### 🛠 **Tech Stack**  
+💻 **Frontend:** JavaScript (ES6+), React, Next.js, TailwindCSS, Redux  
+📡 **Backend & Database:** Node.js, Express.js, MongoDB  
+🧠 **Machine Learning:** TensorFlow.js, Python (Basic)  
+📦 **Tools & Platforms:** Git, GitHub, Vercel, Netlify, Figma  
+
+---
+
+### 📌 **Projects & Highlights**  
+🚀 **[School Management Dashboard](#)** - A full-featured school management system using Next.js  
+📊 **[User Behavior Analytics](#)** - AI-powered dashboard analyzing user interactions  
+🎨 **[Portfolio Website](#)** - My personal website showcasing my work  
+
+> 💡 Check out my GitHub repositories for more projects!  
+
+---
+
+### 📫 **Let's Connect!**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/saeidehtajmehr/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/saeide1997)  
+
+---
+
+💡 *Currently improving my skills in AI-driven web applications & always open to collaboration!*  
